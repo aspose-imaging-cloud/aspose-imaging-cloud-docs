@@ -10,6 +10,5 @@ weight: 20
 BMP Resource allows to manipulate BMP format specific properties such as color depth, horizontal and vertical resolution.
 
 {{% /alert %}} 
-###### **This section includes the following topics:**
 - [Update BMP Image Properties Without Storage](/update-bmp-image-properties-without-storage/)
 - [Update BMP Image Properties](/update-bmp-image-properties/)

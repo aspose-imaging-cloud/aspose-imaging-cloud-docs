@@ -5,16 +5,24 @@ url: /available-sdks/
 weight: 40
 ---
 
-![todo:image_alt_text](/plugins/servlet/confluence/placeholder/unknown-macro)
-# **Aspose.Imaging Cloud SDKs**
+## **Aspose.Imaging Cloud SDKs**
+
 Aspose.Imaging Cloud is to provide the-all new API wrappers (SDKs) for different languages and platforms, which allow using web API features directly from the code.
-### **Why use an SDK?**
+
+## **Why use an SDK?**
+
 Using an SDK (API client) is the quickest way for a developer to speed up the development. An SDK takes care of a lot of low-level details of making requests and handling responses and lets you focus on writing code specific to your particular project.
-### **SDK benefits**
+
+## **SDK benefits**
+
 Our supported SDKs are 100% tested and out of the box running. These SDKs are open source and have an MIT license. You can use them, and even customize them for absolutely free of charge.
-### **Versioning Support in SDKs**
+
+## **Versioning Support in SDKs**
+
 [Aspose.Imaging Cloud SDKs](https://github.com/aspose-imaging-cloud) have "ApiVersion" property for API Configuration classes. The current version is v3.0 and we strongly discourage using v2.0 and lower.
-# **Supported SDKs**
+
+## **Supported SDKs**
+
 {{< tabs tabTotal="7" tabID="1" tabName1=".NET" tabName2="Java" tabName3="PHP" tabName4="Node.js" tabName5="Android" tabName6="Python" tabName7="Ruby" >}}
 
 {{< tab tabNum="1" >}}

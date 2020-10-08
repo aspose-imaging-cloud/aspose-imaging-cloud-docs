@@ -5,13 +5,18 @@ url: /add-tag-and-reference-image-to-search-context/
 weight: 90
 ---
 
-# **Introduction**
+## **Introduction**
+
 This article explains how to add Tag and Reference Image to Search Context.
 
 The API URL is: [POST /imaging/ai/imageSearch/{searchContextId}/addTag](https://apireference.aspose.cloud/imaging/#/SearchContext/CreateImageTag)
+
 ## **Resource URI**
+
 [Swagger UI](https://apireference.aspose.cloud/imaging/#/SearchContext/CreateImageTag) lets you call Aspose.Imaging REST APIs directly from the browser. The description of the APIs and their parameters are also given there.
+
 ## **cURL Example**
+
 {{< tabs tabTotal="2" tabID="1" tabName1="Request" tabName2="Response" >}}
 
 {{< tab tabNum="1" >}}
@@ -53,9 +58,13 @@ No Response
 {{< /tab >}}
 
 {{< /tabs >}}
-# **SDKs**
+
+## **SDKs**
+
 Using an SDK (API client) is the quickest way for a developer to speed up the development. An SDK takes care of a lot of low-level details of making requests and handling responses and lets you focus on writing code specific to your particular project. Check out our [GitHub repository](https://github.com/aspose-imaging-cloud) for a complete list of Aspose.Imaging SDKs along with working examples, to get you started in no time.
+
 ## **SDK Examples**
+
 {{< tabs tabTotal="1" tabID="4" tabName1="Java" >}}
 
 {{< tab tabNum="1" >}}

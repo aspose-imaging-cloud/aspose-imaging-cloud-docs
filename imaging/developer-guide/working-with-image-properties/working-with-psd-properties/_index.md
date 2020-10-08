@@ -10,6 +10,6 @@ weight: 60
 PSD Resource allows manipulating PSD format specific properties such as count of color channels and compression.
 
 {{% /alert %}} 
-###### **This section includes the following topics:**
+## **This section includes the following topics:**
 - [Update PSD Image Properties](/update-psd-image-properties/)
 - [Update PSD Image Properties Without Storage](/update-psd-image-properties-without-storage/)

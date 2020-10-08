@@ -7,13 +7,13 @@ weight: 50
 
 ## **Introduction**
 Aspose.Imaging Cloud provides helper functions to work with files uploaded to Aspose.Imaging Cloud Storage or any other Cloud Storage of your choice. If you need any help getting started with setting third party storage please refer to [Aspose Cloud UI Help Topics](https://docs.aspose.cloud/display/totalcloud/Aspose+Cloud+UI+Help+Topics).
-### **Download a file from Cloud Storage**
-#### **API Information**
+## **Download a file from Cloud Storage**
+### **API Information**
 
 |**API**|**Type**|**Description**|**Swagger Link**|
 | :- | :- | :- | :- |
 |/imaging/storage/file/{path}|GET|Download a File from Storage|[DownloadFile](https://apireference.aspose.cloud/imaging/#/File/DownloadFile)|
-#### **cURL Example**
+### **cURL Example**
 {{< tabs tabTotal="1" tabID="1" tabName1="Request" >}}
 
 {{< tab tabNum="1" >}}
@@ -35,13 +35,13 @@ curl  -v -X GET "https://api.aspose.cloud/v3.0/cells/storage/file/sample_input.t
 {{< /tab >}}
 
 {{< /tabs >}}
-### **Uploading a file from Cloud Storage**
-#### **API Information**
+## **Uploading a file from Cloud Storage**
+### **API Information**
 
 |**API**|**Type**|**Description**|**Swagger Link**|
 | :- | :- | :- | :- |
 |/imaging/storage/file/{path}|POST|Upload a file to Cloud Storage|[UploadFile](https://apireference.aspose.cloud/imaging/#/File/UploadFile)|
-#### **cURL Example**
+### **cURL Example**
 {{< tabs tabTotal="2" tabID="4" tabName1="Request" tabName2="Response" >}}
 
 {{< tab tabNum="1" >}}
@@ -85,13 +85,13 @@ curl  -v -X POST "https://api.aspose.cloud/v3.0/cells/storage/file/sample_input.
 {{< /tab >}}
 
 {{< /tabs >}}
-### **Copying a file to a new location on Cloud Storage**
-#### **API Information**
+## **Copying a file to a new location on Cloud Storage**
+### **API Information**
 
 |**API**|**Type**|**Description**|**Swagger Link**|
 | :- | :- | :- | :- |
 |/imaging/storage/file/copy/{srcPath}|PUT|Duplicate a file to a new location on Cloud Storage|[CopyFile](https://apireference.aspose.cloud/imaging/#/File/CopyFile)|
-#### **cURL Example**
+### **cURL Example**
 {{< tabs tabTotal="1" tabID="8" tabName1="Request" >}}
 
 {{< tab tabNum="1" >}}
@@ -113,13 +113,13 @@ curl -v -X PUT "https://api.aspose.cloud/v3.0/cells/storage/file/copy/sample_inp
 {{< /tab >}}
 
 {{< /tabs >}}
-### **Moving a file to a new location on Cloud Storage**
-#### **API Information**
+## **Moving a file to a new location on Cloud Storage**
+### **API Information**
 
 |**API**|**Type**|**Description**|**Swagger Link**|
 | :- | :- | :- | :- |
 |/imaging/storage/file/MOVE/{srcPath}|PUT|Move a file to a new location on Cloud Storage|[MoveFile](https://apireference.aspose.cloud/imaging/#/File/MoveFile)|
-#### **cURL Example**
+### **cURL Example**
 {{< tabs tabTotal="1" tabID="11" tabName1="Request" >}}
 
 {{< tab tabNum="1" >}}
@@ -141,13 +141,13 @@ curl -v -X PUT "https://api.aspose.cloud/v3.0/imaging/storage/file/move/sample_i
 {{< /tab >}}
 
 {{< /tabs >}}
-### **Deleting a file on Cloud Storage**
-#### **API Information**
+## **Deleting a file on Cloud Storage**
+### **API Information**
 
 |**API**|**Type**|**Description**|**Swagger Link**|
 | :- | :- | :- | :- |
 |/imaging/storage/file/{path}|DELETE|Delete a file from Cloud Storage|[DeleteFile](https://apireference.aspose.cloud/imaging/#/File/DeleteFile)|
-#### **cURL Example**
+### **cURL Example**
 {{< tabs tabTotal="1" tabID="14" tabName1="Request" >}}
 
 {{< tab tabNum="1" >}}

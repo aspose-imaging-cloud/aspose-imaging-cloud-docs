@@ -6,6 +6,7 @@ weight: 20
 ---
 
 ## **Supported File Formats**
+
 Aspose.Imaging Cloud provides support for the following file formats:
 
 - [SVG](https://wiki.fileformat.com/specification/page-description-language/svg/)
@@ -13,16 +14,17 @@ Aspose.Imaging Cloud provides support for the following file formats:
 - [DjVu](https://wiki.fileformat.com/specification/image/djvu/)
 - [DNG](https://wiki.fileformat.com/specification/image/dng/)
 - [ODG](https://wiki.fileformat.com/specification/image/odg/)
-- OTG
+- [OTG](https://docs.fileformat.com/image/otg/)
 - [CDR](https://wiki.fileformat.com/specification/image/cdr/)
 - [CMX](https://wiki.fileformat.com/specification/image/cmx/)
 - [PDF](https://wiki.fileformat.com/view/pdf/)
-- **Raster Formats:[**JPEG2000](https://wiki.fileformat.com/specification/image/jp2/)**, [JPEG](https://wiki.fileformat.com/specification/image/jpeg/), [BMP](https://wiki.fileformat.com/specification/image/bmp/), [TIFF](https://wiki.fileformat.com/specification/image/tiff/), [GIF](https://wiki.fileformat.com/specification/image/gif/), [PNG](https://wiki.fileformat.com/specification/image/png/)
-- **Metafiles: [**EMF](https://wiki.fileformat.com/specification/image/emf/)**, [WMF](https://wiki.fileformat.com/specification/image/wmf/)
-- **Photoshop: [**PSD](https://wiki.fileformat.com/specification/image/psd/)**
+- **Raster Formats:**[JPEG2000](https://wiki.fileformat.com/specification/image/jp2/), [JPEG](https://wiki.fileformat.com/specification/image/jpeg/), [BMP](https://wiki.fileformat.com/specification/image/bmp/), [TIFF](https://wiki.fileformat.com/specification/image/tiff/), [GIF](https://wiki.fileformat.com/specification/image/gif/), [PNG](https://wiki.fileformat.com/specification/image/png/)
+- **Metafiles:** [EMF](https://wiki.fileformat.com/specification/image/emf/), [WMF](https://wiki.fileformat.com/specification/image/wmf/)
+- **Photoshop:** [PSD](https://wiki.fileformat.com/specification/image/psd/)
 - **Other:** [WebP](https://wiki.fileformat.com/specification/image/webp/)
+
 ## **Common Operations Format Support Map**
-#### **Convert**
+## **Convert**
 
 |**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
@@ -44,7 +46,7 @@ Aspose.Imaging Cloud provides support for the following file formats:
 |OTG|+|+|-|-|-|+|+|+|+|+|+|-|-|-|-|-|-|-|+|
 |DNG|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|
 |SVG|+|+|-|+|+|+|+|+|+|+|+|-|-|-|-|-|-|+|+|
-#### **Crop**
+## **Crop**
 
 |**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
@@ -66,7 +68,7 @@ Aspose.Imaging Cloud provides support for the following file formats:
 |OTG|+|+|-|-|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|
 |DNG|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|
 |SVG|+|+|-|-|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|
-#### **Resize**
+## **Resize**
 
 |**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
@@ -88,7 +90,7 @@ Aspose.Imaging Cloud provides support for the following file formats:
 |OTG|+|+|-|-|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|
 |DNG|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|
 |SVG|+|+|-|+|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|
-#### **RotateFlip**
+## **RotateFlip**
 
 |**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
@@ -110,7 +112,7 @@ Aspose.Imaging Cloud provides support for the following file formats:
 |OTG|+|+|-|-|-|+|+|+|+|+|+|-|-|-|-|-|-|-|-|
 |DNG|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|
 |SVG|+|+|-|-|-|+|+|+|+|+|+|-|-|-|-|-|-|-|-|
-#### **Update**
+## **Update**
 
 |**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
