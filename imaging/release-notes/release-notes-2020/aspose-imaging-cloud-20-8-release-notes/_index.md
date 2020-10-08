@@ -13,7 +13,6 @@ url: /aspose-imaging-cloud-20-8-release-notes/
 In this release, we have supported additional image formats in object detection and loading images in EPS format.
 
 ## **Aspose.Imaging v20.8 release integration features**
-
 |     |     |
 | --- | --- |
 |IMAGINGNET-3732|Enhance EPS format support|
@@ -30,7 +29,6 @@ Aspose.Imaging v20.8 comes with improving support of ESP format, fixing image lo
 For the complete list of changes, please refer to [Aspose.Imaging for .NET 20.8 Release Notes](https://docs.aspose.com/display/imagingnet/Aspose.Imaging+for+.NET+20.8+-+Release+notes).
 
 ## **Aspose.Imaging Cloud SDK changes**
-
 |     |     |
 | --- | --- |
 |IMAGINGCLOUD-605|Support load images in EPS format|

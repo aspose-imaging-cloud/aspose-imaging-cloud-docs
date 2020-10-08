@@ -5,27 +5,34 @@ url: /aspose-imaging-cloud-20-5-release-notes/
 weight: 50
 ---
 
-#### **New features, fixes and improvements**
-
+## **New features, fixes and improvements**
+|     |     |
+| --- | --- |
 |IMAGINGCLOUD-515|Extend SaveAs functionality|
-| :- | :- |
 |IMAGINGCLOUD-494|Add object detection and classification feature|
 |IMAGINGCLOUD-531|Fix vulnerabilities for Aspose.Imaging Cloud Java SDK|
+
 In this release we have extended export to Dicom and Html5 canvas, added object detection and classification feature, and fixed vulnerabilities in the Java SDK.
-#### **API changes**
 
+## **API changes**
+|     |     |
+| --- | --- |
 |IMAGINGCLOUD-494|Add object detection and classification feature|
-| :- | :- |
-#### **Aspose.Imaging Cloud SDK changes**
 
+## **Aspose.Imaging Cloud SDK changes**
+|     |     |
+| --- | --- |
 |IMAGINGCLOUD-531|Fix vulnerabilities for Aspose.Imaging Cloud Java SDK|
-| :- | :- |
 |IMAGINGCLOUD-494|Add object detection and classification feature|
+
 - fixed vulnerabilities and updated java jdk version to 1.8.0_251 for Java SDK
 - supported object detection and classification feature in the all SDKs
-#### **Usage Examples:**
+
+## **Usage examples**
+
 **IMAGINGCLOUD-515 Extend SaveAs functionality**
 
+```
 var pathToLocalFile = "ExportSampleImage.bmp";
 using (var imageData = File.OpenRead(pathToLocalFile))
 {
@@ -35,9 +42,11 @@ using (var imageData = File.OpenRead(pathToLocalFile))
   var request = new CreateSavedImageAsRequest(inputImageStream, format, folder, storage);
   var updatedImage = ImagingApi.CreateSavedImageAs(request);
 }
+```
 
 **IMAGINGCLOUD-494 Add object detection and classification feature**
 
+```
 var SampleImageFileName = "object_detection_example.jpg";
 using (FileStream inputImageStream = File.OpenRead(Path.Combine(ExampleImagesFolder, SampleImageFileName)))
 {
@@ -52,3 +61,4 @@ using (FileStream inputImageStream = File.OpenRead(Path.Combine(ExampleImagesFol
 
     DetectedObjectList detectedObjectList = this.ImagingApi.CreateObjectBounds(request);                
 }
+```
