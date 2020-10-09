@@ -27,4 +27,4 @@ In this release, we have resumed supporting of Android SDK and updated reference
 
 Aspose.Imaging v20.9 comes with fixing image loading and saving issues for some formats.
 
-For the complete list of changes, please refer to [Aspose.Imaging for .NET 20.9 Release Notes](https://docs.aspose.com/display/imagingnet/Aspose.Imaging+for+.NET+20.9+-+Release+notes).
+For the complete list of changes in the release of the Imaging On-premise APIs, please refer to [Aspose.Imaging for .NET 20.9 Release Notes](https://docs.aspose.com/display/imagingnet/Aspose.Imaging+for+.NET+20.9+-+Release+notes).
