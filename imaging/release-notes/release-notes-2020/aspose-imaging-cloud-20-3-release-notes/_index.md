@@ -2,7 +2,7 @@
 title: "Aspose.Imaging Cloud 20.3 - Release Notes"
 type: docs
 url: /aspose-imaging-cloud-20-3-release-notes/
-weight: 30
+weight: 10
 ---
 
 ## **New features, fixes and improvements**

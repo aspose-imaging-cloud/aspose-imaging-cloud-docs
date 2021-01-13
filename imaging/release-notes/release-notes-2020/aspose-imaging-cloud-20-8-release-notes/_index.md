@@ -2,7 +2,7 @@
 title: "Aspose.Imaging Cloud 20.8 - Release Notes"
 type: docs
 url: /aspose-imaging-cloud-20-8-release-notes/
-weight: 80
+weight: 5
 ---
 
 ## **New features, fixes and improvements**

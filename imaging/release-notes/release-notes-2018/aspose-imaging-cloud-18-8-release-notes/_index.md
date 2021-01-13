@@ -2,7 +2,7 @@
 title: "Aspose.Imaging Cloud 18.8 - Release Notes"
 type: docs
 url: /aspose-imaging-cloud-18-8-release-notes/
-weight: 80
+weight: 5
 ---
 
 

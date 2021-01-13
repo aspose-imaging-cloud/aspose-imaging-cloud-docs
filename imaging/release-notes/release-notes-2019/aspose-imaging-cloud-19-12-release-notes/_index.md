@@ -2,7 +2,7 @@
 title: "Aspose.Imaging Cloud 19.12 - Release Notes"
 type: docs
 url: /aspose-imaging-cloud-19-12-release-notes/
-weight: 120
+weight: 1
 ---
 
 ## **New features, fixes and improvements**
