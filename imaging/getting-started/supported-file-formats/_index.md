@@ -27,7 +27,7 @@ Aspose.Imaging Cloud provides support for the following file formats:
 ## **Common Operations Format Support Map**
 ## **Convert**
 
-|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|ESP|
+|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|EPS|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
 |BMP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |GIF|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
@@ -47,10 +47,10 @@ Aspose.Imaging Cloud provides support for the following file formats:
 |OTG|+|+|-|-|-|+|+|+|+|+|+|-|-|-|-|-|-|-|+|-|
 |DNG|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |SVG|+|+|-|+|+|+|+|+|+|+|+|-|-|-|-|-|-|+|+|-|
-|ESP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
+|EPS|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 ## **Crop**
 
-|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|ESP|
+|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|EPS|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |:- |
 |BMP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |GIF|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
@@ -70,10 +70,10 @@ Aspose.Imaging Cloud provides support for the following file formats:
 |OTG|+|+|-|-|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|-|
 |DNG|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |SVG|+|+|-|-|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|-|
-|ESP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|-|
+|EPS|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|-|
 ## **Resize**
 
-|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|ESP|
+|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|EPS|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |:- |
 |BMP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |GIF|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
@@ -93,10 +93,10 @@ Aspose.Imaging Cloud provides support for the following file formats:
 |OTG|+|+|-|-|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|-|
 |DNG|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |SVG|+|+|-|+|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|-|
-|ESP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|-|
+|EPS|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|-|
 ## **RotateFlip**
 
-|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|ESP|
+|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|EPS|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |:- |
 |BMP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |GIF|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
@@ -116,10 +116,10 @@ Aspose.Imaging Cloud provides support for the following file formats:
 |OTG|+|+|-|-|-|+|+|+|+|+|+|-|-|-|-|-|-|-|-|-|
 |DNG|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |SVG|+|+|-|-|-|+|+|+|+|+|+|-|-|-|-|-|-|-|-|-|
-|ESP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|-|
+|EPS|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|-|
 ## **Update**
 
-|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|ESP|
+|**From/To**|BMP|GIF|DJVU|WMF|EMF|JPEG|JPEG2000|PSD|TIFF|WEBP|PNG|DICOM|CDR|CMX|ODG|OTG|DNG|SVG|PDF|EPS|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |:- |
 |BMP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |GIF|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|
@@ -139,5 +139,5 @@ Aspose.Imaging Cloud provides support for the following file formats:
 |OTG|+|+|-|-|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|-|
 |DNG|+|+|-|-|-|+|-|+|+|+|+|+|-|-|-|-|-|-|+|-|
 |SVG|+|+|-|-|-|+|+|-|+|+|+|-|-|-|-|-|-|-|-|-|
-|ESP|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|-|
+|EPS|+|+|-|-|-|+|+|+|+|+|+|+|-|-|-|-|-|-|+|-|-|
 
