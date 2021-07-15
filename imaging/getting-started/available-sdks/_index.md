@@ -51,21 +51,34 @@ Our supported SDKs are 100% tested and out of the box running. These SDKs are op
 
 {{< tab tabNum="4" >}}
 
-**Aspose.Imaging Cloud SDK for Node.js** allows you to work with Aspose.Imaging Cloud REST APIs in your Node.js applications quickly and easily, with zero initial cost:
-
-- <https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-node>
-
-{{< /tab >}}
-
-{{< tab tabNum="5" >}}
-
 **Aspose.Imaging Cloud SDK for Android** allows you to work with Aspose.Imaging Cloud REST APIs in your Android applications quickly and easily, with zero initial cost:
 
 - <https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-android>
 
 {{< /tab >}}
 
+{{< tab tabNum="5" >}}
+
+**Aspose.Imaging Cloud SDK for Node.js** allows you to work with Aspose.Imaging Cloud REST APIs in your Node.js applications quickly and easily, with zero initial cost:
+
+- <https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-node>
+
+{{< /tab >}}
+
 {{< tab tabNum="6" >}}
+
+**Aspose.Imaging Cloud SDK for JavaScript** allows you to work with Aspose.Imaging Cloud REST APIs in your JavaScript applications quickly and easily, with zero initial cost:
+
+{{% alert color="primary" %}} 
+
+Complete source code of Aspose.Imaging Cloud SDK for JavaScript is freely available on [GitHub](https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-javascript).
+
+{{% /alert %}}
+
+{{< /tab >}}
+
+
+{{< tab tabNum="7" >}}
 
 **Aspose.Imaging Cloud SDK for Python** allows you to work with Aspose.Imaging Cloud REST APIs in your Python applications quickly and easily, with zero initial cost:
 
@@ -73,7 +86,7 @@ Our supported SDKs are 100% tested and out of the box running. These SDKs are op
 
 {{< /tab >}}
 
-{{< tab tabNum="7" >}}
+{{< tab tabNum="8" >}}
 
 **Aspose.Imaging Cloud SDK for Ruby** allows you to work with Aspose.Imaging Cloud REST APIs in your Ruby applications quickly and easily, with zero initial cost:
 
