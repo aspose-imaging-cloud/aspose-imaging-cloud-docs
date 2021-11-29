@@ -2,6 +2,6 @@
 title: "Aspose.Imaging Cloud"
 type: docs
 url: /
-weight: 10
+weight: 11
 ---
 
