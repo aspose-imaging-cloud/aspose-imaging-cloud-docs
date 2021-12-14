@@ -17,6 +17,8 @@ Using an SDK (API client) is the quickest way for a developer to speed up the de
 
 {{< tab tabNum="1" >}}
 
+```
+
 /// <summary>
 /// Using custom fonts for vector image conversion example.
 /// </summary>
@@ -55,9 +57,13 @@ public void UsingCustomFontsForVectorImageConversion()
 	}
 }
 
+```
+
 {{< /tab >}}
 
 {{< tab tabNum="2" >}}
+
+```
 
 /**
 * Using custom fonts for vector image conversion example.
@@ -86,6 +92,8 @@ public void usingCustomFontsForVectorImageConversion() throws Exception
 	Path path = Paths.get(OutputFolder, "ImageWithCustomFonts_out.png").toAbsolutePath();
     Files.write(path, updatedImage);	
 }
+
+```
 
 {{< /tab >}}
 
