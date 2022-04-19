@@ -34,7 +34,7 @@ Aspose.Imaging Cloud team has published the Docker Container on [Docker Hub](htt
 You can simply run the following docker command after pulling the container from [Docker Hub](https://href.li/?https://hub.docker.com/r/aspose/imaging-cloud).
 
 ```JAVA
-docker run   -e "LicensePublicKey=public_key" -e "LicensePrivateKey=private_key" -v "/fonts:/fonts" -v "/data:/data" aspose/imaging.cloud
+docker run  -e "LicensePublicKey=public_key" -e "LicensePrivateKey=private_key" -v "/fonts:/fonts" -v "/data:/data" aspose/imaging-cloud
 ```
 
 ### Configurations for Docker-Compose Tool
@@ -43,7 +43,7 @@ You can write the following configurations in your yaml file for Docker-Compose 
 
 ```JAVA
 AsposeImagingCloud:
-      image: aspose/imaging.cloud
+      image: aspose/imaging-cloud
       ports: ["8082:80"]
       volumes: [
         "./storage:/data",
