@@ -18,7 +18,7 @@ weight: 30
 - After creating, your new app will have an auto-generated set of keys called `Client Id` and `Client Secret`.
 - Edit the Application to see them, you may need to click on the Lock icon to unhide your `Client Secret`.
 
-Finally, you are ready to call Aspose REST APIs.
+Finally, you are ready to call [Aspose Imaging REST APIs](https://reference.aspose.cloud/imaging/).
 
 ## Install the SDK of your choice ##
 Using an SDK (API client) is the quickest way for a developer to speed up the development. An SDK takes care of a lot of low-level details of making requests and handling responses and lets you focus on writing code specific to your particular project. Please check [Available SDKs](https://docs.aspose.cloud/imaging/available-sdks/) article to learn how to add an SDK to your project.
