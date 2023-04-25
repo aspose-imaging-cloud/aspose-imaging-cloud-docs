@@ -85,4 +85,4 @@ Using an SDK (API client) is the quickest way for a developer to speed up the de
 
 ## **Security and Authentication**
 
-The Aspose.Imaging Cloud APIs are secured and requires authentication - please, check [JSON Web Token Authentication](https://docs.aspose.cloud/display/totalcloud/JSON+Web+Token+Authentication) article for more details.
+The Aspose.Imaging Cloud APIs are secured and requires authentication - please, check [Authenticating API Requests](https://docs.aspose.cloud/total/getting-started/rest-api-overview/authenticating-api-requests/) article for more details.
