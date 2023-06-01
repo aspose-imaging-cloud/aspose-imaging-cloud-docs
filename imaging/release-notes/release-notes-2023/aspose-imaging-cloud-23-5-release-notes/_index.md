@@ -10,4 +10,4 @@ weight: 1
 | --- | --- |
 |IMAGINGCLOUD-830| Update Imaging license |
 
-In this release, we update Imaging license and fixed some vulnerabilities in SDKs.
+In this release, we updated Imaging license and fixed some vulnerabilities in SDKs.
