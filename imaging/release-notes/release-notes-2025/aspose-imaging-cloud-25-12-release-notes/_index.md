@@ -11,4 +11,4 @@ weight: 12
 |IMAGINGCLOUD-869| Integrate new version of Dynabic Billing |
 |IMAGINGCLOUD-870| Implement HealthCheck services |
 
-In this release, we updated Billing library and improved stability of Imaging Cloud API.
+In this release, we updated the Billing library and improved stability of Imaging Cloud API.
